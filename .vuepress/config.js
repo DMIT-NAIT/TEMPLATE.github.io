@@ -26,6 +26,7 @@ module.exports = {
             // fallback sidebar
             '/about/': [
                 '',
+                'todo',
                 [ 'https://github.com/DMIT-0001/DMIT-0001.github.io/', 'Source on GitHub' ]
             ]
         }

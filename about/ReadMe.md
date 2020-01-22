@@ -1,6 +1,7 @@
 ---
 title: About
 ---
+# About DMIT 0001
 
 ::: warning NOTE: Notice of Disclaimer!
 This site is **under construction**.
