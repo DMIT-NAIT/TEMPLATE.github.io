@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-# About DMIT 0001
+# About DMIT-0001
 
 ::: warning NOTE: Notice of Disclaimer!
 This site is **under construction**.
@@ -25,4 +25,4 @@ Additionally, you will need a GitHub account to access labs and assignments for 
 
 ## Colophon
 
-This site is hosted on GitHub Pages and built with [VuePress 1.x](https://vuepress.vuejs.org/). Continuous Deployment (CD) is performed via [Travis-CI](https://travis-ci.org/DMIT-0001/DMIT-0001.github.io).
+This site is hosted on GitHub Pages and built with [**VuePress** 1.x](https://vuepress.vuejs.org/). Continuous Deployment (CD) is performed via **GitHub Actions**.

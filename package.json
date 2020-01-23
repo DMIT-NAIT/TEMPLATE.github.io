@@ -1,4 +1,14 @@
 {
+  "name": "dmit-0001.github.io",
+  "version": "1.5.0",
+  "main": "index.html",
+  "description": "DMIT-0001 Name_of_Course",
+  "repository": "https://github.com/DMIT-0001/DMIT-0001.github.io.git",
+  "author": "DMIT-NAIT",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "vuepress build"
+  },
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.2.0",
     "@vuepress/plugin-back-to-top": "^1.2.0",

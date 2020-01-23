@@ -25,6 +25,8 @@ footer: Copyright © 2020-present Digital Media and IT - NAIT
 The DMIT-NAIT organization has a [Template](https://github.com/DMIT-NAIT/TEMPLATE.github.io) that you can use to create the GitHub Web Pages site for your organization. It uses the [VuePress](https://vuepress.vuejs.org/)-based static site generator.
 
 1. Click the green **Use this Template** button (![button](./images/UseThisTemplate.png)) above.
-2. Fill out the form for creating your new repository. Name it based on this pattern (replacing *YourOrg* with your organization's name): `YourOrg.github.io`
+2. Fill out the form for creating your new repository. Name it based on this pattern (replacing *YourOrg* with your organization's name) and using the same upper/lower case for your organization's name: `YourOrg.github.io`
     ![Create new Repository](./images/CreateFromTemplate.png)
 3. Follow the instructions in the [TODO](about/todo.md) document for customizing your site.
+
+[![Build Status](https://github.com/DMIT-0001/DMIT-0001.github.io/workflows/Build%20and%20Deploy/badge.svg?branch=dev)](https://github.com/DMIT-0001/DMIT-0001.github.io/actions)
