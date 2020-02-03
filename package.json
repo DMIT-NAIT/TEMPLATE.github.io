@@ -7,7 +7,7 @@
   "author": "DMIT-NAIT",
   "license": "UNLICENSED",
   "scripts": {
-    "test": "vuepress build"
+    "build": "vuepress build"
   },
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.2.0",
